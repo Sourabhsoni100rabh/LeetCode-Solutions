@@ -28,6 +28,7 @@ I am consistently solving DSA problems to improve problem-solving skills.
 ## Leetcode Solution links
  * Arrays
 1. [Two Sum](https://leetcode.com/problems/two-sum/) - Easy
+2. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy 
 
 
  --- 
