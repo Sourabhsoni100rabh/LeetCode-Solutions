@@ -1,3 +1,6 @@
+// Problem: Add Digits
+// Link: https://leetcode.com/problems/add-digits/
+// Difficulty: Easy
 class Solution {
     public int addDigits(int num) {
      if(num==0)return 0;
