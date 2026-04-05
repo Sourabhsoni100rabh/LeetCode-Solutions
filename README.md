@@ -31,7 +31,8 @@ I am consistently solving DSA problems to improve problem-solving skills.
 2. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy
 3. [Remove_Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array) - Easy
 4. [Remove_Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array) - Easy
-
+ * Basics
+1. [Add_Digits](https://leetcode.com/problems/add-digits/) - Easy
  --- 
 ## 📅 Daily Practice
 
