@@ -33,6 +33,7 @@ I am consistently solving DSA problems to improve problem-solving skills.
 4. [Remove_Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array) - Easy
  * Basics
 1. [Add_Digits](https://leetcode.com/problems/add-digits/description/) - Easy
+2. [Min_start_value(Prefix Sum)](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/?envType=problem-list-v2&envId=prefix-sum) -Easy
  --- 
 ## 📅 Daily Practice
 
