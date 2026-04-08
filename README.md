@@ -34,6 +34,7 @@ I am consistently solving DSA problems to improve problem-solving skills.
  * Basics
 1. [Add_Digits](https://leetcode.com/problems/add-digits/description/) - Easy
 2. [Min_start_value(Prefix Sum)](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/?envType=problem-list-v2&envId=prefix-sum) -Easy
+3. [Find Pivot Index(Prefix_Sum)](https://leetcode.com/problems/find-pivot-index/submissions/1972865749/) - Easy
  --- 
 ## 📅 Daily Practice
 
