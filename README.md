@@ -9,7 +9,7 @@ I am consistently solving DSA problems to improve problem-solving skills.
 ## 📊 Progress
 
 * Total Problems Solved: 
-* Easy: 4
+* Easy: 7
 * Medium: 0
 * Hard: 0
 
