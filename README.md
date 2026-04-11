@@ -31,10 +31,13 @@ I am consistently solving DSA problems to improve problem-solving skills.
 2. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Easy
 3. [Remove_Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array) - Easy
 4. [Remove_Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array) - Easy
+5. [Min_start_value(Prefix Sum)](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/?envType=problem-list-v2&envId=prefix-sum) -Easy
+6. [Find Pivot Index(Prefix_Sum)](https://leetcode.com/problems/find-pivot-index/submissions/1972865749/) - Easy
+7. [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/1975665418/?envType=problem-list-v2&envId=prefix-sum) - Easy
+  
  * Basics
 1. [Add_Digits](https://leetcode.com/problems/add-digits/description/) - Easy
-2. [Min_start_value(Prefix Sum)](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/?envType=problem-list-v2&envId=prefix-sum) -Easy
-3. [Find Pivot Index(Prefix_Sum)](https://leetcode.com/problems/find-pivot-index/submissions/1972865749/) - Easy
+
  --- 
 ## 📅 Daily Practice
 
