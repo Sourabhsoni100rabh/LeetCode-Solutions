@@ -34,7 +34,7 @@ I am consistently solving DSA problems to improve problem-solving skills.
 5. [Min_start_value(Prefix Sum)](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/?envType=problem-list-v2&envId=prefix-sum) -Easy
 6. [Find Pivot Index(Prefix_Sum)](https://leetcode.com/problems/find-pivot-index/submissions/1972865749/) - Easy
 7. [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/submissions/1975665418/?envType=problem-list-v2&envId=prefix-sum) - Easy
-  
+8. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/1983796423/?envType=problem-list-v2&envId=two-pointers)-Easy  
  * Basics
 1. [Add_Digits](https://leetcode.com/problems/add-digits/description/) - Easy
 
